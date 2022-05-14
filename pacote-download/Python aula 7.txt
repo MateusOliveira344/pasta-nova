@@ -1,0 +1,14 @@
++ adição
+-subtração
+*multiplicação
+/divisão
+**potência/ao quadrado
+//divisão inteira
+%resto da divisão
+
+Ordem de precedência dentro de uma expressão
+aritmética
+1()
+2**
+3*/ //%
+4+-

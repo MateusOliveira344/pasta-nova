@@ -1,0 +1,4 @@
+int= numeros inteiros
+float= numeros quebrados/numero real
+bool= só aceita dois valores True, False
+str= textos em geral, palavras entre aspas
